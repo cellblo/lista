@@ -1,0 +1,121 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television | AR
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png", 5R TV Santa Fe | AR
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png", Bayres TV | AR
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
+https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg", Informacion Periodistica | AR
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="284" tvg-name="Multivisión" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", Multivisión | AR
+https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="243" tvg-name="Power" tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png", Power | AR
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png", Music Top | AR
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1236" tvg-name="PANC TV" tvg-logo="https://i2.paste.pics/a61c22c0fe52306c8326cbc423addda9.png", PANC TV | AR
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 2 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://i2.paste.pics/34feb14ad3ee6a17a160ab0635915bf0.png", CSTV | CL
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="981" tvg-name="Bolivia TV 7.2" tvg-logo="https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png", Bolivia TV 7.2 | BO
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1194" tvg-name="Bolivision" tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png", Bolivision | BO
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="980" tvg-name="Megavision Santa Cruz" tvg-logo="https://i2.paste.pics/fec09de82f8dfa3d668fda6019d4a966.png", Megavision Santa Cruz | BO
+https://livefocamundo.com:8081/megavisiontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90" tvg-name="PAT" tvg-logo="https://lh3.googleusercontent.com/-v4jR4z9omU8/XoJ-Dz5RZrI/AAAAAAAAxUM/6bQg9xKKf4wZ6qNDSlGz3wug0AKp2jamQCK8BGAsYHg/s0/2020-03-30.png", PAT | BO
+https://master.tucableip.com/pat/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="92" tvg-name="Red AD Venir Internacional" tvg-logo="https://lh3.googleusercontent.com/-xklYhEnMoEQ/XoJ-S16WTVI/AAAAAAAAxUQ/cVvGCBICihAm8ruAArXJD7R8WKYUPcNUQCK8BGAsYHg/s0/2020-03-30.png", Red AD Venir Internacional | BO
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1176" tvg-name="Red Uno Cochabamba" tvg-logo="https://i2.paste.pics/d26de779a340ad1e14d41543c79c3174.png", Red Uno Cochabamba | BO
+http://streannlivereduno.cachefly.net/reduno1/reduno1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1178" tvg-name="Red Uno La Paz" tvg-logo="https://i2.paste.pics/d26de779a340ad1e14d41543c79c3174.png", Red Uno La Paz | BO
+http://streannlivereduno.cachefly.net/reduno2/reduno2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1177" tvg-name="Red Uno Santa Cruz" tvg-logo="https://i2.paste.pics/d26de779a340ad1e14d41543c79c3174.png", Red Uno Santa Cruz | BO
+http://streannlivereduno.cachefly.net/reduno3/reduno3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://lh3.googleusercontent.com/-N3zh29QSPGc/XoJ-bfc5s-I/AAAAAAAAxUU/049-pOmZOb4ESR2rDTzzDCO6zO5niZ5-QCK8BGAsYHg/s0/2020-03-30.png", RTP | BO
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://lh3.googleusercontent.com/-srgTFcKOa90/X4yz-_574eI/AAAAAAAA6gA/dBaBDVECSbUEZ1SXE9Sv3s-ZWJkOUnmGgCK8BGAsYHg/s0/2020-10-18.png", TV HD Tropical | BO
+https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://lh3.googleusercontent.com/-7SXvBoxEU7U/YIoR7EX9WEI/AAAAAAABCCM/vilu9iV1RDcjDOT5ksg9xvMyyjceKWRowCK8BGAsYHg/s512/2021-04-28.png", XTO TV | BO
+https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png", EnerGeek Señal 1 | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png", Energeek Señal 2 | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Señal 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png", EnerGeek Señal 3 | CL
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids | CL
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1217" tvg-name="eSports Max TV" tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png", eSports Max TV | VE
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1169" tvg-name="AniTV" tvg-logo="https://i2.paste.pics/5493510668c5a5ad847c25e53b6e86ef.png", AniTV | BR
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png", Fabulosa FM | ES
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png", Music Top | AR
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV Music" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Music | CL
+https://tls-cl.cdnz.cl/planetatvmusic/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 2 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies | CL
+https://tls-cl.cdnz.cl/planetatvmovie/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
